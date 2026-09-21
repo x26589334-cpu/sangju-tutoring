@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://x26589334-cpu.github.io/sangju-tutoring/sitemap.xml
+Sitemap: https://nadostudy.co.kr/sitemap.xml
